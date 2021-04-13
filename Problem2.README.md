@@ -2,7 +2,7 @@
 
 ## 2) (yeah, I skipped the 1st one):<br />
 In this problem you'll have to face a very easy problem that's not even worth solving, but you can try anyway if you have nothing to do.<br />
-You have a CountDown component that displays the time left untile a given deadline with the following format: Days:Hours:Minutes:Seconds.<br >
+You have a CountDown component that displays the time left untile a given deadline with the following format: **Days:Hours:Minutes:Seconds**. The trailing zeros can be discarded. For example, if there are 0 days 0 hours, M minutes, and S seconds left, then you should display the time as follows **M:S**<br >
 You have two tasks:<br/>
 ### 1.<br />
 Implement the display function so that the remaining time will be renedered in the format specified above.
